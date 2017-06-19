@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\ANDROID-WORKSPACE\Ders3.2(camera)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6faaf93591140d3fd60f00ce7626ce9eeafa3d19">
+        <dex dex="C:\ANDROID-WORKSPACE\Ders3.2(camera)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_87a20817ac4bf7e803a92441c1d13ecdd488d1a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ANDROID-WORKSPACE\Ders3.2(camera)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\ANDROID-WORKSPACE\Ders3.2(camera)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5057092328601d61390d02b831bc6e330e99db38\classes.dex" />
+    </item>
+
+</items>
